@@ -49,8 +49,8 @@ export const About = () => {
             </p>
             <div className="flex flex-wrap gap-4 pt-4">
               <div className="text-center">
-                <div className="text-3xl font-bold text-blue-600 dark:text-blue-400">2+</div>
-                <div className="text-sm text-gray-600 dark:text-gray-400">Years Experience</div>
+                {/* <div className="text-3xl font-bold text-blue-600 dark:text-blue-400">2+</div>
+                <div className="text-sm text-gray-600 dark:text-gray-400">Years Experience</div> */}
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold text-purple-600 dark:text-purple-400">10+</div>
